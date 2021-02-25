@@ -32,4 +32,5 @@ else:
         else:
             ans = min(index, ans)
             high = index - 1
+
     print(ans - base)
